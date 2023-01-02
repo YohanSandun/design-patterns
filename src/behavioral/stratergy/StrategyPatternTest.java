@@ -1,7 +1,7 @@
 package behavioral.stratergy;
 
 public class StrategyPatternTest {
-    
+
     public static void main(String[] args) {
 
         Context context = new Context();
