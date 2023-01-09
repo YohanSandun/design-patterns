@@ -9,7 +9,7 @@ public class StatePatternTest {
         order.ship();
 
         System.out.println("---------");
-        
+
         Order anotherOrder = new Order();
         anotherOrder.pay(1500);
         anotherOrder.cancel();
